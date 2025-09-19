@@ -186,3 +186,6 @@ if ...    <-- Actual test code
           <-- Errors must be raised with `fatal()`
           <-- Does not need to end with a call to `ok()`
 ```
+
+## Stats
+![Alt](https://repobeats.axiom.co/api/embed/7d1d75ffe3a7715bb7d1b6d5ab1c1b6cc461f36d.svg "Repobeats analytics image")
